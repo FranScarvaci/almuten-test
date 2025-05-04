@@ -63,7 +63,7 @@ if (typeof ReadableStream === "undefined") {
 
 // Datos de nacimiento
 const birthInfo = {
-  name: "aldi",
+  name: "ejemplo",
   year: 1994,
   month: 4,
   day: 22,
